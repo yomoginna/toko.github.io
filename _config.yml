@@ -10,7 +10,7 @@ show_downloads: true
 # google_analytics:
 # theme: jekyll-theme-slate # localで試す場合はこちらがwork
 # remote_theme: pages-themes/slate@v0.2.0
-theme: jekyll/minima
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
