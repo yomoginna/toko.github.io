@@ -1,16 +1,27 @@
-# title: Slate theme
-# description: Slate is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-# theme: jekyll-theme-slate # localで試す場合はこちらがwork
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 title: Toko page
 email: miura.toko.r8@dc.tohoku.ac.jp
 description: >-
   This is a page for Toko Miura.
 # baseurl: "" <- これがあるとremoteでのbuild時にremote_themeが読み込まれないよう? https://stackoverflow.com/questions/48197580/jekyll-theme-does-not-work-on-github-pages-but-works-locally
 url: "https://toko.github.io"
+
+
+show_downloads: true
+# google_analytics:
+theme: jekyll-theme-slate # localで試す場合はこちらがwork
+# remote_theme: pages-themes/slate@v0.2.0
+
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-pwa-plugin
+  - jekyll-tagging-related_posts
+  - jekyll-target-blank
+  - jekyll-postfiles
+  - jekyll-og-image
+
 repository: "yomoginna/toko.github.io"
+
+
