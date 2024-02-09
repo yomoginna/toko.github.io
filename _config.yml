@@ -11,6 +11,6 @@ title: Toko page
 email: miura.toko.r8@dc.tohoku.ac.jp
 description: >-
   This is a page for Toko Miura.
-baseurl: ""
+# baseurl: "" <- これがあるとremoteでのbuild時にremote_themeが読み込まれないよう? https://stackoverflow.com/questions/48197580/jekyll-theme-does-not-work-on-github-pages-but-works-locally
 url: "https://toko.github.io"
 repository: "yomoginna/toko.github.io"
