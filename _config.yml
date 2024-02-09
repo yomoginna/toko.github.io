@@ -1,1 +1,8 @@
 theme: jekyll-theme-pages-themes/slate@v0.2.0
+title: Toko page
+email: miura.toko.r8@dc.tohoku.ac.jp
+description: >-
+  This is a page for Toko Miura.
+baseurl: ""
+url: "https://toko.github.io"
+repository: "yomoginna/toko.github.io"
