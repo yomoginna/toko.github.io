@@ -10,22 +10,22 @@ layout: default
 
 <!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-### 名前 / Name
+## 名前 / Name
  三浦 東子 / Toko Miura
 
-### 所属 / Affiliation
+## 所属 / Affiliation
 
   - 修士課程1年生 / First-year master's student
   - 東北大学 大学院情報科学研究科 システム情報科学専攻 / Graduate School of Information Sciences, Tohoku University
   - 坂口・乾・徳久研究室 ([東北大学自然言語処理研究グループ](https://www.nlp.ecei.tohoku.ac.jp/){:target="_blank"}) / Member of [TohokuNLP Group](https://www.nlp.ecei.tohoku.ac.jp/){:target="_blank"}
 
 
-### 興味 / Interests
+## 興味 / Interests
 - 医療言語処理 / Natural language processing in medical informatics
 - 言語モデルの分析 / Analysis of Language Models
 
 
-### 趣味 / Hobby
+## 趣味 / Hobby
 - Playing
   - フィギュアスケート / Figure skating
   - 箏 / Koto (Japanese harp)
@@ -34,11 +34,11 @@ layout: default
   - Cats' and Dogs' videos on youtube
 
 
-### 学歴 / Education
+## 学歴 / Education
 - Bachelor of Science in Computer Science and Technology, Tohoku University, 2021-2023
 - Foundation degree of Science in Computer Science and Technology, National Institute of Technology, Sendai College, 2016-2021
 
-### 連絡先 / Contact
+## 連絡先 / Contact
   Email: miura.toko.r8@dc.tohoku.ac.jp  
 
   住所 (研究室): 〒980-8579 宮城県仙台市青葉区荒巻字青葉6-6-05 東北大学工学研究科 電子情報システム・応物系1号館6階 660

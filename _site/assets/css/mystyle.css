@@ -3,15 +3,17 @@
     display: flex;
     border-radius: 8px;
     justify-content: space-around;
-    background-color:rgba(255,255,255,0.8);
+    background-color:rgba(255,255,255,0.8); /* rbga(240, 255, 255, 0.8); /* azure, rgba(243, 240, 204, 0.676)*/ 
     background-blend-mode:lighten;
-    /* background-color: rbga(240, 255, 255, 0.8); /* azure, rgba(243, 240, 204, 0.676)*/ 
 }
 .card_text {
-    /* margin-top: 8em; */
+    /* slateの場合，margin-top: 8em; */
+    /* dinkyで，顔写真を挿入する場合
     margin-top: 0em;
     margin-left: 3em;
-    margin-right: -3em;
+    margin-right: -3em; */
+
+    margin-left: 2em;
 }
 /* .card_img {
     border: solid 1px #777777;
@@ -27,7 +29,7 @@
 } 
 
 /* body */
-#main_content_wrap {
-    /* background-image: url("../../assets/images/kairaku-en2.jpg");
-    background-color: transparent; */
-}
+/* #main_content_wrap {
+    background-image: url("../../assets/images/kairaku-en2.jpg");
+    background-color: transparent; 
+} */
