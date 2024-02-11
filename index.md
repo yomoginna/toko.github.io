@@ -10,7 +10,10 @@ layout: default
 
 <!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# 所属 / Affiliation
+### 名前 / Name
+ 三浦 東子 / Toko Miura
+
+### 所属 / Affiliation
 
   - 修士課程1年生 / First-year master's student
   - 東北大学 大学院情報科学研究科 システム情報科学専攻 / Graduate School of Information Sciences, Tohoku University

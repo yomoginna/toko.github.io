@@ -1,16 +1,28 @@
+/* header */
+#header_wrap {
+    background-color: darkkhaki;
+
+
+}
 .top_field {
     display: flex;
+    border-radius: 8px;
     justify-content: space-around;
+    background-color: azure; /* azure, rgba(243, 240, 204, 0.676)*/
 }
 .card_text {
-    margin-top: 8em;
+    /* margin-top: 8em; */
+    margin-top: 0em;
+    margin-left: 3em;
+    margin-right: -3em;
 }
 /* .card_img {
     border: solid 1px #777777;
     border-radius: 5px;
 } */
 #profile_img {
-    border: solid 1px #777777;
+    border: solid 1px #cecaca;
     border-radius: 5px;
-    height: 40%;
+    height: 48%;
+    padding: 0.3em;
 } 
