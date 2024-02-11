@@ -3,7 +3,7 @@
     display: flex;
     border-radius: 8px;
     justify-content: space-around;
-    background-color: azure; /* azure, rgba(243, 240, 204, 0.676)*/
+    /* background-color: rbga(240, 255, 255, 0.8); /* azure, rgba(243, 240, 204, 0.676)*/ 
 }
 .card_text {
     /* margin-top: 8em; */
@@ -16,8 +16,16 @@
     border-radius: 5px;
 } */
 #profile_img {
-    border: solid 1px #cecaca;
-    border-radius: 5px;
-    height: 48%;
-    padding: 0.3em;
+    border-radius: 60%;
+    height: 50%;
+    /* border: solid 1px #cecaca; */
+    /* padding: 0.3em; */
+    padding: 0em;
+    
 } 
+
+/* body */
+#main_content_wrap {
+    /* background-image: url("../../assets/images/kairaku-en2.jpg");
+    background-color: transparent; */
+}
