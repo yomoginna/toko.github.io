@@ -1,0 +1,16 @@
+.top_field {
+    display: flex;
+    justify-content: space-around;
+}
+.card_text {
+    margin-top: 8em;
+}
+/* .card_img {
+    border: solid 1px #777777;
+    border-radius: 5px;
+} */
+#profile_img {
+    border: solid 1px #777777;
+    border-radius: 5px;
+    
+} 

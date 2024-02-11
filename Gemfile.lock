@@ -269,7 +269,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (= 3.9.4)
-  jekyll-theme-slate
+  jekyll-theme-dinky
   webrick (~> 1.8)
 
 BUNDLED WITH

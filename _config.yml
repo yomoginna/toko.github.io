@@ -1,16 +1,18 @@
-title: Toko page
+# yamlの記法 https://qiita.com/jerrywdlee/items/d5d31c10617ec7342d56
+title: 三浦 東子 
 email: miura.toko.r8@dc.tohoku.ac.jp
 description: >-
-  This is a page for Toko Miura.
+  Toko Miura
 # baseurl: "" <- これがあるとremoteでのbuild時にremote_themeが読み込まれないよう? https://stackoverflow.com/questions/48197580/jekyll-theme-does-not-work-on-github-pages-but-works-locally
 url: "https://toko.github.io"
 
 
 show_downloads: true
 # google_analytics:
-# theme: jekyll-theme-slate # localで試す場合はこちらがwork
+# theme: jekyll-theme-slate # localで試す場合はこちらもwork
+# theme: jekyll-theme-dinky
 # remote_theme: pages-themes/slate@v0.2.0
-remote_theme: jekyll/minima
+remote_theme: pages-themes/dinky@v0.2.0
 
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
@@ -24,5 +26,6 @@ plugins:
   - jekyll-og-image
 
 repository: "yomoginna/toko.github.io"
+
 
 
