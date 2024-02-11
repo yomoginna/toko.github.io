@@ -3,6 +3,7 @@
     display: flex;
     border-radius: 8px;
     justify-content: space-around;
+    background-color: ;
     /* background-color: rbga(240, 255, 255, 0.8); /* azure, rgba(243, 240, 204, 0.676)*/ 
 }
 .card_text {
